@@ -1,0 +1,6 @@
+fx_version 'cerulean'
+game 'gta5'
+author 'P1ERU'
+version '1.0.0'
+description 'nopee blip pierult'
+client_script 'blips.lua'
